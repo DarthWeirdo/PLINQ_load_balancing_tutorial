@@ -1,0 +1,7 @@
+E:\Projects\PLINQ_load_balancing\PLINQ_load_balancing\bin\Debug\PLINQ_load_balancing.exe.config
+E:\Projects\PLINQ_load_balancing\PLINQ_load_balancing\bin\Debug\PLINQ_load_balancing.exe
+E:\Projects\PLINQ_load_balancing\PLINQ_load_balancing\bin\Debug\PLINQ_load_balancing.pdb
+E:\Projects\PLINQ_load_balancing\PLINQ_load_balancing\bin\Debug\Ionic.Zip.dll
+E:\Projects\PLINQ_load_balancing\PLINQ_load_balancing\bin\Debug\Ionic.Zip.xml
+E:\Projects\PLINQ_load_balancing\PLINQ_load_balancing\obj\Debug\PLINQ_load_balancing.exe
+E:\Projects\PLINQ_load_balancing\PLINQ_load_balancing\obj\Debug\PLINQ_load_balancing.pdb

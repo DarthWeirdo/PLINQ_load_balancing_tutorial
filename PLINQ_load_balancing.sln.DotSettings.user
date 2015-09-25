@@ -1,0 +1,42 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/RunConfigs/Active/@EntryValue">A25DD9FF021F6E4D9BA03B802267458E</s:String>
+	<s:Boolean x:Key="/Default/RunConfigs/Config/=10BA2B2EF5528C40B4FD3DE5126AA795/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/RunConfigs/Config/=10BA2B2EF5528C40B4FD3DE5126AA795/DefaultAction/@EntryValue">profile</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=10BA2B2EF5528C40B4FD3DE5126AA795/Method/Method/@EntryValue">PLINQ_load_balancing.Program.TestStringInZipFeature_Static_Partitioner</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=10BA2B2EF5528C40B4FD3DE5126AA795/Method/PlatformType/@EntryValue">x86</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=10BA2B2EF5528C40B4FD3DE5126AA795/Method/PlatformVersion/@EntryValue">v4_5</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=10BA2B2EF5528C40B4FD3DE5126AA795/Method/WorkingDirectory/@EntryValue">PLINQ_load_balancing\bin\Debug</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=10BA2B2EF5528C40B4FD3DE5126AA795/Name/@EntryValue">TestStringInZipFeature_Static_Partitioner</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=10BA2B2EF5528C40B4FD3DE5126AA795/ProjectGuid/@EntryValue">D0C1B8A6052D8E49930662462E62311D</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=10BA2B2EF5528C40B4FD3DE5126AA795/Type/@EntryValue">method</s:String>
+	
+	
+	
+	<s:Boolean x:Key="/Default/RunConfigs/Config/=227E63A2D1C6A845A1A09C5153BAE58F/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/RunConfigs/Config/=227E63A2D1C6A845A1A09C5153BAE58F/Type/@EntryValue">method</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=227E63A2D1C6A845A1A09C5153BAE58F/Name/@EntryValue">TestStringInZipFeature</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=227E63A2D1C6A845A1A09C5153BAE58F/ProjectGuid/@EntryValue">D0C1B8A6052D8E49930662462E62311D</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=227E63A2D1C6A845A1A09C5153BAE58F/DefaultAction/@EntryValue">run</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=227E63A2D1C6A845A1A09C5153BAE58F/Method/WorkingDirectory/@EntryValue">PLINQ_load_balancing\bin\Debug</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=227E63A2D1C6A845A1A09C5153BAE58F/Method/Method/@EntryValue">PLINQ_load_balancing.Program.TestStringInZipFeature</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=227E63A2D1C6A845A1A09C5153BAE58F/Method/PlatformVersion/@EntryValue">v4_5</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=227E63A2D1C6A845A1A09C5153BAE58F/Method/PlatformType/@EntryValue">x86</s:String>
+	<s:Boolean x:Key="/Default/RunConfigs/Config/=885C9FA10BC6904B9D50163B77C7C0A5/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/RunConfigs/Config/=885C9FA10BC6904B9D50163B77C7C0A5/DefaultAction/@EntryValue">profile</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=885C9FA10BC6904B9D50163B77C7C0A5/Method/Method/@EntryValue">PLINQ_load_balancing.Program.TestStringInZipFeature_AsParallel</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=885C9FA10BC6904B9D50163B77C7C0A5/Method/PlatformType/@EntryValue">x86</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=885C9FA10BC6904B9D50163B77C7C0A5/Method/PlatformVersion/@EntryValue">v4_5</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=885C9FA10BC6904B9D50163B77C7C0A5/Method/WorkingDirectory/@EntryValue">PLINQ_load_balancing\bin\Debug</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=885C9FA10BC6904B9D50163B77C7C0A5/Name/@EntryValue">TestStringInZipFeature_AsParallel</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=885C9FA10BC6904B9D50163B77C7C0A5/ProjectGuid/@EntryValue">D0C1B8A6052D8E49930662462E62311D</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=885C9FA10BC6904B9D50163B77C7C0A5/Type/@EntryValue">method</s:String>
+	<s:Boolean x:Key="/Default/RunConfigs/Config/=A25DD9FF021F6E4D9BA03B802267458E/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/RunConfigs/Config/=A25DD9FF021F6E4D9BA03B802267458E/DefaultAction/@EntryValue">run</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=A25DD9FF021F6E4D9BA03B802267458E/Method/Method/@EntryValue">PLINQ_load_balancing.Program.TestStringInZipFeature_Custom_Partitioner</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=A25DD9FF021F6E4D9BA03B802267458E/Method/PlatformType/@EntryValue">x86</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=A25DD9FF021F6E4D9BA03B802267458E/Method/PlatformVersion/@EntryValue">v4_5</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=A25DD9FF021F6E4D9BA03B802267458E/Method/WorkingDirectory/@EntryValue">PLINQ_load_balancing\bin\Debug</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=A25DD9FF021F6E4D9BA03B802267458E/Name/@EntryValue">TestStringInZipFeature_Custom_Partitioner</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=A25DD9FF021F6E4D9BA03B802267458E/ProjectGuid/@EntryValue">D0C1B8A6052D8E49930662462E62311D</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=A25DD9FF021F6E4D9BA03B802267458E/Type/@EntryValue">method</s:String>
+	</wpf:ResourceDictionary>
